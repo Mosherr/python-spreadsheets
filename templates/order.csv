@@ -1,0 +1,1 @@
+[order_no],[external_id],[order_date],[name],[address_1],[address_2],[address_3],[city],[state],[zip],[country],[email],[phone],[shipping_method],[is_commercial],[sku],[quantity],[company_name],[hold],[hold_reason]
